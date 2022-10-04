@@ -18,3 +18,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
+[patika.dev profil linkim](https://app.patika.dev/MerveKati26)
