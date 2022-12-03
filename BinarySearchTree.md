@@ -11,4 +11,6 @@ Cevap: 7 root olsun.
 9, 8'in sağında bulunur.
 4, 3'ün sağında bulunur.
 2, 3'ün solunda bulunur.
+
+
 ![image](https://user-images.githubusercontent.com/69768981/205464848-2e7f2fe0-349a-4745-ab71-8339113890fa.png)
